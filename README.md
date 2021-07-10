@@ -1,5 +1,5 @@
 - 🐱‍👤 Hi, I’m Elchik
-- 🐱‍🐉 I’m interested in selfdevelopment
+- 🐱‍🐉 I’m interested in searching
 - 💻 I’m currently learning how to start my work
 - ☎ I’m looking to collaborate on discord
 - 🏹 How to reach me in no way?)
