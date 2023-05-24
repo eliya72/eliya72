@@ -6,7 +6,7 @@
 
 ## <br> Socials Section:<br><br><br><sup>◼ Reach me via: </sup><br><br>&nbsp;[![GMAIL](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lermaneliya72@gmail.com)&nbsp;&nbsp;[![LINKEIN](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](href="https://www.linkedin.com/in/eliia-lierman/")&nbsp;
 
-## <br>GitHub Stats Section:<br><br><br><br>&nbsp;
+## <br>GitHub Stats Section:<br><br><br>![eliya72's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliya72&count_private=true&theme=dark)<br>&nbsp;
 
 <!-- - 🐱‍🐉 I’m interested in searching...
 - 💻 I’m currently learning how to start my work
